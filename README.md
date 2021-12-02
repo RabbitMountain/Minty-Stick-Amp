@@ -1,9 +1,9 @@
 # Minty-Stick-Amp
-DIY headphone Amplifier for the Chapman Stick (2021)
-
-![Minty Stick Amp](/minty-stick-amp-brd.png?raw=true "Minty Stick Amp")
+DIY headphone Amplifier for the Chapman Stick
 
 Design in Autodesk Eagle CAD, by me, Andrew Barney, December 2021. **Prototype not yet tested.**
+
+![Minty Stick Amp](/minty-stick-amp-brd-150.png?raw=true "Minty Stick Amp")
 
 This design is a heavily modified derivitave based on the **"Stick Amp"** by Marcelo Privé, designed and shared sometime between 2002 and 2004. Marcelo Privé's amp was an improved version of Chris Crain's Chapman **"Stick® Player’s Headphone Amplifier"**, which was built and shared online sometime before 2003. Both designs center around the LM386 Low Voltage Audio Power Amplifier.
 
