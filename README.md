@@ -9,7 +9,7 @@ This design is a heavily modified derivitave based on the **"Stick Amp"** by Mar
 
 The LM386 is one of the most common amps used in DIY guitar preamplifiers due to its ability to run on a single 9V battery. The well-known "Smokey Amp" uses an LM386 and is notable for being able to fit in a cigarette package. The "Ruby" amp is a modified version of a Little Gem amplifier.
 
-In contrast, this prototype design is designed around the more modern LM4819 and TPA321. The design should be compatible with any of the following chips that have the same basic pinout for the SOIC package. Possible IC chips include: LM4819, TPA751, TPA321, TPA741, TPA721, TPA711, TPA701, TPA301. By using a more modern chip like the LM4819 or the TPA*** family means that it can run on between 2.5 VDC – 5.5 VDC. This means we can run it on a 3.7/4.2V Lipo battery instead of a large 9V battery. Low Power and small size were the main goals of this design, as well as (hopefully) being a functional christmas present for my brother Simmon.
+In contrast, this prototype design is designed around the more modern LM4819 and TPA321. The design should be compatible with any of the following chips that have the same basic pinout for the SOIC package. Possible IC chips include: LM4819, LM4818?, TPA751, TPA321, TPA741, TPA721, TPA711?, TPA701, TPA301. By using a more modern chip like the LM4819 or the TPA*** family means that it can run on between 2.5 VDC – 5.5 VDC. This means we can run it on a 3.7/4.2V Lipo battery instead of a large 9V battery. Low Power and small size were the main goals of this design, as well as (hopefully) being a functional christmas present for my brother Simmon.
 
 # Schematic
 
